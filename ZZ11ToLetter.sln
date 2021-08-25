@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZZ11ToLetter", "ZZ11ToLetter.csproj", "{C353B745-95AE-42A7-87BE-1FE595B241DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C353B745-95AE-42A7-87BE-1FE595B241DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C353B745-95AE-42A7-87BE-1FE595B241DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C353B745-95AE-42A7-87BE-1FE595B241DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C353B745-95AE-42A7-87BE-1FE595B241DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E47ECAC-C5CD-4C50-B8FB-8827E3E45C45}
+	EndGlobalSection
+EndGlobal
